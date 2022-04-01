@@ -27,6 +27,7 @@ freetests.py is LICENSE'D under a BSD-like license:
 From ws4py
 
 Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
+Copyright (c) 2022, Sylvain Hellegouarch, Hongwei Wang
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -59,3 +60,13 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+Resources
+============
+https://www.educba.com/flask-jsonify/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+https://www.w3schools.com/tags/canvas_fillstyle.asp
+https://stackoverflow.com/questions/684672/how-do-i-loop-through-or-enumerate-a-javascript-object
+https://coolors.co/f0a202-f18805-d95d39-0e1428-7b9e89
+https://css-tricks.com/snippets/javascript/random-hex-color/
